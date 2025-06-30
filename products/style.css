@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  padding: 1rem;
+}
+select {
+  margin: 0.5rem;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+li {
+  margin: 5px 0;
+  padding: 5px;
+  border: 1px solid #ccc;
+}
